@@ -17,5 +17,5 @@ If you are interested in me, please contact me by email: neojob@inbox.ru<br>
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=neojob-github&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=neojob-github)](https://git.io/streak-stats)
 

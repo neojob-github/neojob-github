@@ -14,5 +14,8 @@ This page was created to help me find a good and interesting job!<br>
 I like data science, game development and machine learning. Sometimes I try to create video games, but I don't have much motivation and there isn't a cohesive hardworking team to finish it.
 I can spend a lot of time writing python code, and I won't get tired of it if my work isn't boring.
 If you are interested in me, please contact me by email: neojob@inbox.ru<br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=neojob-github)](https://git.io/streak-stats)
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=neojob-github&theme=dark&background=000000)](https://git.io/streak-stats)
 

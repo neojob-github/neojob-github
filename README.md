@@ -8,7 +8,7 @@
 Эта страница была создана для того, чтобы помочь мне найти хорошую и интересную работу!<br>
 Мне нравятся наука о данных, разработка игр и машинное обучение. Иногда я пытаюсь создавать видеоигры, но у меня нет достаточной мотивации и нет сплоченной трудолюбивой команды, чтобы закончить это.
 Я могу потратить много времени на написание кода на python, и я не устаю от этого, если моя работа не скучная.
-<h1>Если я вас заинтересовал, пожалуйста, свяжитесь со мной по электронной почте: neojob@inbox.ru<br>
+Если я вас заинтересовал, пожалуйста, свяжитесь со мной по электронной почте: neojob@inbox.ru<br>
 <br>
 Hi! My name is Dmitry, I'm 21 years old, and I'm a python programmer!<br>
 I have a secondary vocational education in the specialty "Telecommunication technologies" with grades "A" and "B". I did a great job completing additional courses in python data analysis, data science, and machine learning.<br>

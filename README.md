@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="600"/>
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="500"/>
 </div>
 
 <h1>:fire: About me :fire:

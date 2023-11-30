@@ -3,18 +3,18 @@
 </div>
 
 <h1>:fire: About me :fire:
-<h2>Привет! Меня зовут Дмитрий, мне 21 год, и я программист на python!<br>
+<h2>Привет! Меня зовут Дмитрий, мне 21 год, и я программист на Python!<br>
 У меня среднее профессиональное образование по специальности "Специалист по телекоммуникациям" с хорошими оценками. Я отлично окончил дополнительные курсы по анализу данных на python, науке о данных и машинному обучению.<br>
 Эта страница была создана для того, чтобы помочь мне найти достойную и интересную работу!<br>
 Мне нравятся наука о данных, разработка игр и машинное обучение. Иногда я пытаюсь создавать видеоигры, но у меня нет достаточной мотивации и нет сплоченной трудолюбивой команды, чтобы закончить это.
-Я могу потратить много времени на написание кода на python, и я не устаю от этого, если моя работа не скучная.
+Если моя работа не скучная, я могу провести за программированием на Python колоссальное количество времени и совсем не устать.
 Если я вас заинтересовал, пожалуйста, свяжитесь со мной по электронной почте: neojob@inbox.ru<br>
 <br>
-Hi! My name is Dmitry, I'm 21 years old, and I'm a python programmer!<br>
-I have a secondary vocational education in the specialty "Telecommunication technologies" with grades "A" and "B". I did a great job completing additional courses in python data analysis, data science, and machine learning.<br>
-This page was created to help me find a good and interesting job!<br>
-I like data science, game development and machine learning. Sometimes I try to create video games, but I don't have much motivation and there isn't a cohesive hardworking team to finish it.
-I can spend a lot of time writing python code, and I won't get tired of it if my work isn't boring.
+Hi! My name is Dmitry, I am 21 years old, and I am a Python programmer!<br>
+I have a secondary professional education in the specialty "Telecommunications Specialist" with good grades. I have excelled in additional courses in python data analysis, data science and machine learning.<br>
+This page was created to help me find a decent and interesting job!<br>
+I like data science, game development, and machine learning. Sometimes I try to create video games, but I don't have enough motivation and there isn't a cohesive hard working team to finish it.
+If my work is not boring, I can spend a huge amount of time programming in Python and not get tired at all.
 If you are interested in me, please contact me by email: neojob@inbox.ru<br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="100" height="100"/>&nbsp;
